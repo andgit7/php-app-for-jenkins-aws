@@ -26,6 +26,7 @@ else
         <h1>Congratulations Bro!</h1>
         <p>Первый деплой из GitHub через Jenkins в AWS</p>
         <p>Версия PHP <?= phpversion() ?></p>
+		<p>проверка нового пользователя AWS</p>
     </section>
 
     <section class="instructions">
