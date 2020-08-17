@@ -41,7 +41,7 @@ else
         <h2>AWS SDK for PHP</h2>
         <ul>
             <li><a href="http://aws.amazon.com/sdkforphp">AWS SDK for PHP home</a></li>
-            <li><a href="http://aws.amazon.com/php">version 1.05</a></li>
+            <li><a href="http://aws.amazon.com/php">version 1.06</a></li>
            	<li><a href="https://h7n9.pro/apps/files/?dir=/&fileid=6">Моё облако на Nextcloud</a></li>
         </ul>
     </section>
