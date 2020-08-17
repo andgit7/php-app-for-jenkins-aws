@@ -25,7 +25,7 @@ else
     <section class="congratulations">
         <h1>Congratulations Bro!</h1>
         <p>Первый деплой из GitHub через Jenkins в AWS</p>
-        <p>You are running PHP version <?= phpversion() ?></p>
+        <p>Версия PHP <?= phpversion() ?></p>
     </section>
 
     <section class="instructions">
